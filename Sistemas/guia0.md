@@ -3,7 +3,8 @@
 ## ej 1
 
 
-![imagen](https://hackmd.io/_uploads/Hy5UcCpLkx.png)
+![image](https://github.com/user-attachments/assets/0bfe8a39-c037-4f55-9876-1bf7c002b75b)
+
 
 a) ¿Qué hace el comando whoami?
 
