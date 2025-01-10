@@ -6,29 +6,29 @@
 ![image](https://github.com/user-attachments/assets/0bfe8a39-c037-4f55-9876-1bf7c002b75b)
 
 
-a) ¿Qué hace el comando whoami?
+**a) ¿Qué hace el comando whoami?**
 
-**Printea el user id**
+> Printea el user id
 
-b) ¿Qué hace el comando uname? ¿Para qué sirve la opción -a?
+**b) ¿Qué hace el comando uname? ¿Para qué sirve la opción -a?**
 
-**Printea informacion del sistema**
+> Printea informacion del sistema
+> 
+> Por ejemplo `uname -a` printea toda la info del sistema
+> 
+> `uname -o` printea el sistema oprativo
 
-**Por ejemplo `uname -a` printea toda la info del sistema**
+**c) ¿Qué hace el comando id?**
 
-**`uname -o` printea el sistema oprativo**
+> printea el user id
 
-c) ¿Qué hace el comando id?
+**d) ¿Qué hace el comando ps? ¿Para qué sirve la opción -e?**
 
-**printea el user id**
+> printea un snapshot de todos los procesos actuales
 
-d) ¿Qué hace el comando ps? ¿Para qué sirve la opción -e?
+ `ps -e ` printea todos los procesos del sistema
 
-**printea un snapshot de todos los procesos actuales**
-
- `ps -e ` **printea todos los procesos del sistema**
-
-e) ¿Qué hace el comando top? ¿Qué sucede al ejecutar top -n 10?
+**e) ¿Qué hace el comando top? ¿Qué sucede al ejecutar top -n 10?**
 
 > Te printea todos los procesos y su informacion `provides  a  dynamic real-time view of a running system`
 > 
@@ -40,32 +40,32 @@ e) ¿Qué hace el comando top? ¿Qué sucede al ejecutar top -n 10?
     
     
     
-f) ¿Qué hace el comando pwd?
+**f) ¿Qué hace el comando pwd?**
 
 
-**printea la ruta en la que estas parado**
+> printea la ruta en la que estas parado
 
-g) ¿Qué hace el comando ls? 
+**g) ¿Qué hace el comando ls?**
+ 
+> ls lista los contenidos de donde estas parado(archivos, directorios, etc)
 
-**ls lista los contenidos de donde estas parado(archivos, directorios, etc)**
+**h) ¿Qué hace el comando mkdir?**
 
-h) ¿Qué hace el comando mkdir? 
-
-**crea un nuevo directorio ej: `mkdir hola`**
-
-
-i) ¿Qué hace el comando touch? 
-
-**crea un nuevo archivo ej: `touch hola.txt`**
+> crea un nuevo directorio ej: `mkdir hola`
 
 
-j) ¿Qué hace el comando rm? 
+**i) ¿Qué hace el comando touch?**
 
-**borra archivos(no directorios) **
+> crea un nuevo archivo ej: `touch hola.txt`
 
-k) ¿Qué hace el comando rm -r? 
 
-**borra directorios ej `rm -r hola`**
+**j) ¿Qué hace el comando rm?** 
+
+> borra archivos(no directorios) 
+
+**k) ¿Qué hace el comando rm -r?**
+
+> borra directorios ej `rm -r hola`
 
 ## Segunda parte
 
