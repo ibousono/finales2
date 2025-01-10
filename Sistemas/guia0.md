@@ -69,11 +69,12 @@ k) ¿Qué hace el comando rm -r?
 
 ## Segunda parte
 
-![imagen](https://hackmd.io/_uploads/HylxHyALke.png)
+![image](https://github.com/user-attachments/assets/33c57c04-6d1c-4319-b2ee-1480af50be55)
 
 
-![imagen](https://hackmd.io/_uploads/S19lI1AIkx.png)
+
+![image](https://github.com/user-attachments/assets/33a7bcb7-0bea-4178-95d3-5018c2697b65)
 
 
-![imagen](https://hackmd.io/_uploads/B1F_U10Uyg.png)
-dasdasdas
+
+![image](https://github.com/user-attachments/assets/fb30dcf9-da3e-458c-8d39-c357a7639161)
