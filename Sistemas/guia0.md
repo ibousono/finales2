@@ -115,8 +115,8 @@ La **terminal** y el **intérprete de comandos** no son lo mismo, aunque están 
 
 > Creas el archivo con touch script.sh y le pones lo siguiente:
 
+![imagen](https://github.com/user-attachments/assets/558ba716-07fc-4d4e-97aa-76bab41ea29e)
 
-![imagen](https://hackmd.io/_uploads/ryMSLHgDyg.png)
 
 ---
 ### **d) Como veo que permisos tiene un archivo?**
