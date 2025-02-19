@@ -17,7 +17,8 @@ Las system calls se utilizan para realizar operaciones que requieren privilegios
 Cuando un usuario invoca una syscall desde c, el proceso guarda los argumentos de la syscall en la pila, el harward guarda el PC y los registros, se pasa a la biblioteca, la biblioteca llama a trap para cambiar de modo usuario a modo kernell ( el sistema operativo guarda los datos necesarios del proceso actual en sus registros), el SO busca en la tabla o vector de system calls por el numero de syscall invocado y llama al handler con la rutina correspondiente y salta a ejecutarse a esa direccion
 
 ####  Vector de syscalls con las direcciones a sus handlers
-![image](https://hackmd.io/_uploads/rJHhTY5tyl.png)
+![image](https://github.com/user-attachments/assets/1914e943-75b2-4bb8-aec7-7daa7fbc9aa6)
+
 
 ## ¿Para qué sirve la system call fork? ¿Qué debilidades tiene? Comparar con vfork y la creación de threads.
 
@@ -33,14 +34,15 @@ La system call **fork** se utiliza para crear un nuevo proceso, conocido como pr
 
 
 Ejemplo de fork
-![image](https://hackmd.io/_uploads/rJRNw_KKkg.png)
+![image](https://github.com/user-attachments/assets/e33a0df9-fa72-40b5-92ca-800b39a76143)
 
 Cuando se hace el fork los dos procesos estan apuntando a lo mismo, mientras los dos solo lean va a seguir así, ahora si uno escribe el hijo carga una copia en otro lado de la memoria(copy on write)
 
 Otro ejemplo
-![image](https://hackmd.io/_uploads/rklUOdFYJg.png)
+![image](https://github.com/user-attachments/assets/8971b61d-d1fd-4c9e-a0ba-07eb2a1276b7)
 
-![image](https://hackmd.io/_uploads/HkeXOOYKkx.png)
+![image](https://github.com/user-attachments/assets/3bc9d216-43fd-4cf6-b969-1f1ae91cef9d)
+
  
  
  
